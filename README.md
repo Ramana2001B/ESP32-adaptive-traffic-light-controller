@@ -1,5 +1,7 @@
 # ESP32 Adaptive Traffic Light Controller
 
+![Project Prototype](project_demo.jpg)
+
 ## Overview
 
 An ESP32-based adaptive traffic light controller that monitors vehicle density using IR sensors and dynamically selects the lane that should receive the green signal.

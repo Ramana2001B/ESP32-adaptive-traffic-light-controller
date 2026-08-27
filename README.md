@@ -1,6 +1,6 @@
 # ESP32 Adaptive Traffic Light Controller
 
-![Project Prototype](Project_Demo.jpg)
+![Project Prototype](Project_Demo.jpeg)
 
 ## Overview
 
